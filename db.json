@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "title": "广东，梅州  两周后", "body": "小湾岛环岛骑行" },
+    { "id": 2, "title": "18,015 Hotels available", "body": "发现你的旅伴" },
+    { "id": 3, "title": "台湾岛环岛骑行", "body":  "台湾岛环岛骑行"},
+    { "id": 4, "title": "去日本大阪看樱花", "body":  "去日本大阪看樱花"},
+    { "id": 5, "title": "周末周边徒步", "body":  "周末周边徒步"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "lotosv2010"
+  }
+}
