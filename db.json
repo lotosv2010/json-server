@@ -7,8 +7,12 @@
     { "id": 5, "title": "周末周边徒步", "body":  "周末周边徒步"}
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "title": "塞内加尔", "body": "幸福的旅途，是有人和你一拍即合，旅途的美景美事与志同道合的人分享", "score": 8.9, "postId": 1 },
+    { "id": 2, "title": "斯威士兰","body": "幸福的旅途，是有人和你一拍即合，旅途的美景美事与志同道合的人分享", "score": 8.0, "postId": 1 },
+    { "id": 3, "title": "巴黎","body": "幸福的旅途，是有人和你一拍即合，旅途的美", "score": 6.9, "postId": 1 },
+    { "id": 4, "title": "塞内加尔","body": "幸福的旅途，是有人和你一拍即合，旅途的美", "score": 7.9, "postId": 1 },
+    { "id": 5, "title": "法国","body": "幸福的旅途，是有人和你一拍即合，旅途的美", "score": 7.9, "postId": 2 },
+    { "id": 6, "title": "英国","body": "幸福的旅途，是有人和你一拍即合，旅途的美", "score": 7.9, "postId": 3 }
   ],
   "users": [
     {
