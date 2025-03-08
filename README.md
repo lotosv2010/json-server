@@ -5,3 +5,5 @@
 ## Try it
 
 [https://my-json-server.typicode.com/lotosv2010/json-server](https://my-json-server.typicode.com/lotosv2010/json-server)
+
+## License
